@@ -1,4 +1,4 @@
-https://doi.org/10.5281/zenodo.22800995
+v1.0.0 https://doi.org/10.5281/zenodo.22800995
 
 Application Shiny permettant de visualiser les résultats du modèle QLDM.
 
