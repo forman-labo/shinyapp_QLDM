@@ -1,0 +1,12 @@
+name: resultats_QLDM
+title: resultats_QLDM
+username: qldm
+account: qldm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12652254
+bundleId: 10984370
+url: https://qldm.shinyapps.io/resultats_QLDM/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

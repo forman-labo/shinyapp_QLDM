@@ -1,0 +1,12 @@
+name: Shiny_resultats_12mars
+title: Shiny_resultats_12mars
+username: qldm
+account: qldm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14227942
+bundleId: 9939058
+url: https://qldm.shinyapps.io/Shiny_resultats_12mars/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

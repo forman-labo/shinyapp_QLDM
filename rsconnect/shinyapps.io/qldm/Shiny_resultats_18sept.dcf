@@ -1,0 +1,12 @@
+name: Shiny_resultats_18sept
+title: Shiny_resultats_18sept
+username: qldm
+account: qldm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15507961
+bundleId: 10927634
+url: https://qldm.shinyapps.io/Shiny_resultats_18sept/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
