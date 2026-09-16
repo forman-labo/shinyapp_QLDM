@@ -1,3 +1,4 @@
+#install.packages(c("shiny", "shinythemes", "leaflet", "sf", "plotly", "scales", "shinyjs", "markdown"))
 library(shiny)
 library(shinythemes)
 library(leaflet)
@@ -6,9 +7,10 @@ library(plotly)
 library(scales)
 library(shinyjs)
 library(markdown)
+library(ggplot2)
 
 
-#setwd("C:/Users/FRPOI91/OneDrive - Université Laval/Documents/LANDSCAPE.DYN/Shiny_resultats_18sept")
+#setwd("C:/Users/FRPOI91/OneDrive - Université Laval/Documents/GitHub/shinyapp_QLDM")
 
 scencuts<-read.table("graph_recolte/cuts.txt", header = T)
 
