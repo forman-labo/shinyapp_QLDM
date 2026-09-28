@@ -1,6 +1,6 @@
 v1.0.0 https://doi.org/10.5281/zenodo.22800995
 
-Application Shiny permettant de visualiser les résultats du modèle QLDM.
+Application Shiny permettant de visualiser les résultats du modèle QLDM. https://fredericpoirier-resultatsqldm.share.connect.posit.cloud
 
 Le QLDM (Quebec Landscape Dynamic Model) est un modèle spatialement explicite conçu pour simuler l’impact des perturbations naturelles et anthropiques sur l’évolution des caractéristiques forestières à grande échelle (Bouchard et al. 2019). Il prend en compte divers types de perturbations sévères, notamment les feux de forêt, les coupes totales et partielles, ainsi que les coupes de récupération (récolte après feu) (Bouchard et al. 2023).
 
